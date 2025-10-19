@@ -5,16 +5,10 @@
 <br>
 </div>
 
-- I'm currently working with Ruby on Rails and PostgreSQL
+- I'm currently working with Ruby on Rails, PostgreSQL, Tailwind, Heroku.
 
 - I'm currently learning about Rails performance
 
-<div>
-  <a href="https://www.linkedin.com/in/alan-n-b1413512b/" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alannascimento1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannascimento1&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
 
 ## 🛠 Skills
 [![ruby on rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)]()
