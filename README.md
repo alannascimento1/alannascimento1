@@ -5,9 +5,7 @@
 <br>
 </div>
 
-- I'm currently working with Ruby on Rails, PostgreSQL, Tailwind, Heroku.
-
-- I'm currently learning about Rails performance
+- I'm currently working with Ruby on Rails, PostgreSQL, Tailwind.
 
 
 ## 🛠 Skills
